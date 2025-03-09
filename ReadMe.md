@@ -103,7 +103,7 @@ s21_sscanf("1234 Hello", "%d %s", &num, str);
 printf("%d %s\n", num, str); // Output: 1234 Hello
 ```
 
-##The library provide two additional functions, inspired by String class of C#:
+## The library provide two additional functions, inspired by String class of C#:
 ### `s21_insert` function:
 
 ```c
@@ -170,6 +170,9 @@ This runs a suite of unit tests to validate the correctness of the implemented f
 
 ## License
 This project is released under the MIT License. You are free to use, modify, and distribute it.
+
+## Authors
+cinnamoa, garretst, beronhol, willanha, and quaylcor School21 students
 
 ## Contributing
 Contributions are welcome! If you find a bug or want to propose improvements, please submit an issue or a pull request.
